@@ -7,10 +7,9 @@ I am a [Platfom Engineer at Azenix](https://www.linkedin.com/in/gnaneshwara-babu
 
 - Automation fanatic and knows PowerShell!
 - 🌻 Learning Azure, Kubernetes, PowerShell, Go, Ansible, Terraform, Git, GitHub
-* I love :heart: reading books 📚, few of my Favorite Books (I am currently reading The Pheonix Project and Hatching Twitter 🥚)
+* I love :heart: reading books 📚, few of my Favorite Books (I am currently reading The DevOps Handbook and Hatching Twitter 🥚)
   * Become Ansible
   * The Search
-  * Hit Reresh
   * Marissa Mayer and the fight to save Yahoo!
 - 🏅A big fan of Soccer
 
