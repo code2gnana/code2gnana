@@ -3,7 +3,7 @@
 <!--
 **code2gnana/code2gnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a [Platfom Engineer at Azenix](https://www.linkedin.com/in/gnaneshwara-babu/). My day job involves ***designing and architecting cloud and DevOps Solutions***. **Infrastructure automation** is my core strength with deep focus on *Server Infrastructure, Virtualization and Kubernetes!*
+I am a [Senior Platfom Engineer at Azenix](https://www.linkedin.com/in/gnaneshwara-babu/). My day job involves ***designing and architecting cloud and DevOps Solutions***. **Infrastructure automation** is my core strength with deep focus on *Server Infrastructure, Virtualization and Kubernetes!*
 
 - Automation fanatic and knows PowerShell!
 - 🌻 Learning Azure, Kubernetes, PowerShell, Go, Ansible, Terraform, Git, GitHub
