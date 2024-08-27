@@ -3,15 +3,16 @@
 <!--
 **code2gnana/code2gnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a [Senior Platfom Engineer at Azenix](https://www.linkedin.com/in/gnaneshwara-babu/). My day job involves ***designing and architecting cloud and DevOps Solutions***. **Infrastructure automation** is my core strength with deep focus on *Server Infrastructure, Virtualization and Kubernetes!*
+I am a [Senior Cloud Engineer at Versent](https://www.linkedin.com/in/gnaneshwara-babu/). My day job involves ***designing and architecting cloud and DevOps Solutions***. **Infrastructure automation** is my core strength with deep focus on *Cloud Platforms, DevOps, Platform Engineering and Kubernetes!*
 
-- Automation fanatic and knows PowerShell!
-- 🌻 Learning Azure, Kubernetes, PowerShell, Go, Ansible, Terraform, Git, GitHub
-* I love :heart: reading books 📚, few of my Favorite Books (I am currently reading Super Pumped - The battle for Uber)
+- Automation fanatic and knows PowerShell and golang!
+- 🌻 Learning Azure, Kubernetes, PowerShell, Go, Ansible, Terraform, Git, GitHub, Bicep
+* I love :heart: reading books 📚, few of my Favorite Books (I am currently reading Elon Musk biography )
   * Become Ansible
   * The Search
   * Marissa Mayer and the fight to save Yahoo!
   * The Pheonix Project
+  * Super Pumped - The battle for Uber
   * Hatching Twitter
   * Supper Pumped
   * Hit Refresh
